@@ -2,10 +2,35 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
     color: white;
+    text-align: center;
+}
+
+p, a {
+    padding: 20px;
 }
 
 .main_header {
     font-weight: normal;
     font-size: 50px;
     text-align: center;
+}
+
+.download_link {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+.secondary_header {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.guide_text {
+    color: gray;
+    font-size: 21px;
+}
+
+footer {
+    text-align: right;
+    color: gray;
 }
